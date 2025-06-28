@@ -1,0 +1,2 @@
+# FFXIVPATHS
+for me
